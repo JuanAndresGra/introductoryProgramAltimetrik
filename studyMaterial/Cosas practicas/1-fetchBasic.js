@@ -1,4 +1,4 @@
-/*
+//Esta mal ya se
 fetch(url)//Promise server request (GET) 
 .then(function(response)){ //Promise to transform the data
     return response.json();
@@ -9,5 +9,3 @@ fetch(url)//Promise server request (GET)
 .catch(function(error)){ //Handle errors by preventing possible errors in the conversion process.
     console.log("unexpected error", error);
 }
-*/
-//comentario aparte
